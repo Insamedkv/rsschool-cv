@@ -1,6 +1,6 @@
 1. **Kanstantsin Kamazennikau**
 2. **e-mail**: dab.sky1997@gmail.com | [Telegram](https://t.me/Insamedkv)
-3. My **goals** is to become a front-end developer and develop in this field to achieve high results. Perseverance, the ability to understand complex things, responsiveness.
+3. My goals is to become a front-end developer and develop in this field to achieve high results. Perseverance, the ability to understand complex things, responsiveness.
    From **08.19 to 11.19** worked as a design engineer in "MAZ" company, after that served in the army.
 4. Skills in technologies including:
     - Frontend: HTML, CSS

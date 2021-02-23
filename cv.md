@@ -6,38 +6,16 @@
     - Frontend: HTML, CSS
     - Languages: JavaScript
 5. 
-```HTML
-!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Procrastinate.</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://code.s3.yandex.net/web-code/adaptive.css">
-  <link rel="icon" type="image" href="https://code.s3.yandex.net/web-code/js-favicon.ico">
-</head>
-<body>
-  <div class="header">
-    <p class="logo">Procrastinate.</p>
-    <div class="button">Ещё идея</div>
-  </div>
-
-  <img class="image" src="https://code.s3.yandex.net/web-code/procrastinate/9.png">
-
-  <div class="advice">
-    <span>Не писать код, а</span>
-    <span class="phrase">что бы поделать?</span>
-    <img class="cursor" src="https://code.s3.yandex.net/web-code/cursor.gif">
-  </div>
-
-  <p class="footer">By Amikasa</p>
-
-  <script src="https://code.s3.yandex.net/web-code/smoothly.js"></script>
-  <script src="script.js"></script>
-</body>
-</html>
+```javascript
+function positiveSum(arr) {
+                    var sum = 0;
+                    for(var i = 0; i < arr.length; i++) {
+                      if(arr[i] > 0) {
+                        sum += arr[i];
+                      }
+                    }
+                return sum;
+                }
 ```
 6. **Work experience**: Coming soon
 7. **Education**: BNTU, Faculty of Information Technologies and Robotics, Electrical engineer. Courses: Yandex-praktikum basic frontend development course.

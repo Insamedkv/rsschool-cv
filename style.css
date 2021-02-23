@@ -34,6 +34,17 @@ li {
     padding-top: 10px;
 }
 
+.footer {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.logo {
+    height: 50px;
+    width: 15%;
+    text-align: center;
+}
+
 a {
     color: rgb(72, 72, 247);
 }
